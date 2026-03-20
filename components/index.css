@@ -1,0 +1,12 @@
+.banner {
+    display: none; /* Nascosto di default */
+    background-color: #ffeb3b; /* Giallo */
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
+
+/* Classe da aggiungere manualmente per il test */
+.visibile {
+    display: block;
+}
