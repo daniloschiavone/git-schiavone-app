@@ -1,0 +1,2 @@
+# requisiti di funzione
+fkhsbdksdhbfv
