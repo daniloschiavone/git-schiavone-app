@@ -2,7 +2,7 @@
 ## Potente
 ### coauthor: Iacopo
 
-version 1.0.0.1
+version 0.0.0.6
 
 
 ### Esercizio 10: master
